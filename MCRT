@@ -1,2 +1,4 @@
 ! This code does radiation transfer using the Monte Carlo Method
-! 
+! It can use both MPI and OpenMP for parallelization.
+! This code was writen by Nina Sartorio
+
